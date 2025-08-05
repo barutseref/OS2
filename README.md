@@ -1,6 +1,6 @@
 # OS2 - Modüler Türkçe Yapay Zeka Asistanı
 
-Bu proje, mikroservis mimarisiyle geliştirilen, sesli ve görsel etkileşimli, kişiselleşebilen bir Türkçe yapay zeka sistemi olacak inşallah.
+Bu proje, mikroservis mimarisiyle geliştirilen, sesli ve görsel etkileşimli, kişiselleşebilen bir Türkçe yapay zeka sistemi olacak inşallah...
 
 ## Klasör Yapısı
 
